@@ -1,0 +1,36 @@
+mode = "light"
+
+# Isle of the Dead · Cliff Sand (Böcklin, 1883): surfaces from stone sample 2,
+# the left cliff, mid face (#A4937C), with every color weathered toward it.
+accent = "#634B2B"
+selection = "#DBD5CD"
+muted = "#70685F"
+
+background = "#CABFAF"
+dark_background = "#C2B7A8"
+darker_background = "#BCB09F"
+lighter_background = "#C6BBAC"
+
+foreground = "#221F1B"
+dark_foreground = "#534E49"
+light_foreground = "#3E3932"
+bright_foreground = "#141210"
+
+hyprland_active_border = "#634B2B #6E7488 45deg"
+hyprland_inactive_border = "#B0A18D"
+
+red = "#71433B"
+yellow = "#5D4C2E"
+orange = "#664930"
+green = "#485240"
+cyan = "#3E5353"
+blue = "#474E64"
+magenta = "#5C4A57"
+brown = "#594C40"
+
+bright_red = "#804C43"
+bright_yellow = "#6B5735"
+bright_green = "#525D48"
+bright_cyan = "#465E5E"
+bright_blue = "#515972"
+bright_magenta = "#695462"

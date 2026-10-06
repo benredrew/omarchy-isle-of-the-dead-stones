@@ -1,0 +1,36 @@
+mode = "light"
+
+# Isle of the Dead · Boulder Base (Böcklin, 1883): surfaces from stone sample 9,
+# the right boulder, base (#846F5C), with every color weathered toward it.
+accent = "#66472D"
+selection = "#DBD3CD"
+muted = "#6E665E"
+
+background = "#CABCAF"
+dark_background = "#C2B4A8"
+darker_background = "#BCAD9F"
+lighter_background = "#C5B8AC"
+
+foreground = "#221E1B"
+dark_foreground = "#524D48"
+light_foreground = "#3E3832"
+bright_foreground = "#141210"
+
+hyprland_active_border = "#66472D #6E7488 45deg"
+hyprland_inactive_border = "#AF9D8D"
+
+red = "#6F423A"
+yellow = "#5C4B2D"
+orange = "#63472F"
+green = "#464F3E"
+cyan = "#3C5151"
+blue = "#464D63"
+magenta = "#5A4855"
+brown = "#584B3F"
+
+bright_red = "#7E4B41"
+bright_yellow = "#695533"
+bright_green = "#515C47"
+bright_cyan = "#455D5D"
+bright_blue = "#505871"
+bright_magenta = "#675260"

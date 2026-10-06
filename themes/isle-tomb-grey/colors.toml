@@ -1,0 +1,36 @@
+mode = "light"
+
+# Isle of the Dead · Tomb Grey (Böcklin, 1883): surfaces from stone sample 4,
+# the left tomb block (#98928D), with every color weathered toward it.
+accent = "#5D4938"
+selection = "#D6D3D2"
+muted = "#6D655D"
+
+background = "#C1BCB9"
+dark_background = "#B9B5B1"
+darker_background = "#B2ADA9"
+lighter_background = "#BCB9B5"
+
+foreground = "#221E1B"
+dark_foreground = "#504C47"
+light_foreground = "#3E3832"
+bright_foreground = "#141210"
+
+hyprland_active_border = "#5D4938 #6E7488 45deg"
+hyprland_inactive_border = "#A39E99"
+
+red = "#6E4139"
+yellow = "#5B4A2D"
+orange = "#63472F"
+green = "#464F3E"
+cyan = "#3B5050"
+blue = "#454C61"
+magenta = "#594754"
+brown = "#574A3E"
+
+bright_red = "#7C4A41"
+bright_yellow = "#675433"
+bright_green = "#505B46"
+bright_cyan = "#445C5C"
+bright_blue = "#4F5770"
+bright_magenta = "#65515F"

@@ -1,0 +1,36 @@
+mode = "dark"
+
+# Isle of the Dead · Violet Shade (Böcklin, 1883): surfaces from stone sample 16,
+# the left cliff, shaded face (#676673), with every color weathered toward it.
+accent = "#9793C5"
+selection = "#3F3E47"
+muted = "#6A6980"
+
+background = "#222126"
+dark_background = "#1B1A1E"
+darker_background = "#131316"
+lighter_background = "#303036"
+
+foreground = "#D6D5E2"
+dark_foreground = "#77768A"
+light_foreground = "#BFBED0"
+bright_foreground = "#EAEAF1"
+
+hyprland_active_border = "#9793C5 #7C84A6 45deg"
+hyprland_inactive_border = "#3A3A41"
+
+red = "#BF8175"
+yellow = "#AF8B4C"
+orange = "#BA8659"
+green = "#839773"
+cyan = "#6E9898"
+blue = "#8590AE"
+magenta = "#A4899C"
+brown = "#A38D79"
+
+bright_red = "#CFA198"
+bright_yellow = "#C4A878"
+bright_green = "#A2B196"
+bright_cyan = "#93B2B2"
+bright_blue = "#A4ACC2"
+bright_magenta = "#BAA6B4"

@@ -1,0 +1,36 @@
+mode = "light"
+
+# Isle of the Dead · Quay Olive (Böcklin, 1883): surfaces from stone sample 10,
+# the quay wall, top (#7D7663), with every color weathered toward it.
+accent = "#594F34"
+selection = "#D8D6CF"
+muted = "#6E6A5E"
+
+background = "#C6C1B4"
+dark_background = "#BEB9AC"
+darker_background = "#B7B2A4"
+lighter_background = "#C1BDB1"
+
+foreground = "#22201B"
+dark_foreground = "#524F48"
+light_foreground = "#3E3B32"
+bright_foreground = "#141310"
+
+hyprland_active_border = "#594F34 #6E7488 45deg"
+hyprland_inactive_border = "#A9A393"
+
+red = "#71433B"
+yellow = "#5F4D2F"
+orange = "#664930"
+green = "#495341"
+cyan = "#3E5353"
+blue = "#474F65"
+magenta = "#5C4A57"
+brown = "#5B4D41"
+
+bright_red = "#804C43"
+bright_yellow = "#6B5735"
+bright_green = "#535E49"
+bright_cyan = "#475F5F"
+bright_blue = "#525A73"
+bright_magenta = "#695462"

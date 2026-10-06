@@ -1,0 +1,36 @@
+mode = "dark"
+
+# Isle of the Dead · Boulder Shadow (Böcklin, 1883): surfaces from stone sample 14,
+# the right boulder, shadow (#7A6A63), with every color weathered toward it.
+accent = "#BA907E"
+selection = "#4A3F3B"
+muted = "#796A63"
+
+background = "#282220"
+dark_background = "#1F1B19"
+darker_background = "#171412"
+lighter_background = "#38312E"
+
+foreground = "#E2D9D5"
+dark_foreground = "#857772"
+light_foreground = "#D0C3BE"
+bright_foreground = "#F1ECEA"
+
+hyprland_active_border = "#BA907E #7C84A6 45deg"
+hyprland_inactive_border = "#443B37"
+
+red = "#C08378"
+yellow = "#B08C4C"
+orange = "#BA875A"
+green = "#859874"
+cyan = "#709999"
+blue = "#8892AF"
+magenta = "#A58A9D"
+brown = "#A48E7A"
+
+bright_red = "#D0A39B"
+bright_yellow = "#C6AA79"
+bright_green = "#A4B297"
+bright_cyan = "#96B4B4"
+bright_blue = "#A6AEC4"
+bright_magenta = "#BCA8B6"

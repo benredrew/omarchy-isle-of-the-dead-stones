@@ -1,0 +1,36 @@
+mode = "light"
+
+# Isle of the Dead · Lichen Rust (Böcklin, 1883): surfaces from stone sample 8,
+# the right boulder, rust (#846247), with every color weathered toward it.
+accent = "#6E4320"
+selection = "#DFD2C8"
+muted = "#70665F"
+
+background = "#D1BAA9"
+dark_background = "#CBB29F"
+darker_background = "#C6AB95"
+lighter_background = "#CEB6A4"
+
+foreground = "#221E1B"
+dark_foreground = "#524C48"
+light_foreground = "#3E3732"
+bright_foreground = "#141210"
+
+hyprland_active_border = "#6E4320 #6E7488 45deg"
+hyprland_inactive_border = "#BB9B81"
+
+red = "#6E4139"
+yellow = "#5C4B2D"
+orange = "#63472F"
+green = "#464F3E"
+cyan = "#3C5151"
+blue = "#464D63"
+magenta = "#5A4855"
+brown = "#584B3F"
+
+bright_red = "#7E4B41"
+bright_yellow = "#695533"
+bright_green = "#515C47"
+bright_cyan = "#445C5C"
+bright_blue = "#505871"
+bright_magenta = "#675260"

@@ -1,0 +1,36 @@
+mode = "light"
+
+# Isle of the Dead · Tower Rose (Böcklin, 1883): surfaces from stone sample 6,
+# the right tower, mid face (#958172), with every color weathered toward it.
+accent = "#614733"
+selection = "#D9D3CE"
+muted = "#6E655E"
+
+background = "#C8BBB2"
+dark_background = "#C0B4AB"
+darker_background = "#B9ACA2"
+lighter_background = "#C3B7AF"
+
+foreground = "#221E1B"
+dark_foreground = "#524C48"
+light_foreground = "#3E3732"
+bright_foreground = "#141210"
+
+hyprland_active_border = "#614733 #6E7488 45deg"
+hyprland_inactive_border = "#AC9C90"
+
+red = "#6E4139"
+yellow = "#5B4A2D"
+orange = "#63472F"
+green = "#464F3E"
+cyan = "#3C5151"
+blue = "#454C61"
+magenta = "#594754"
+brown = "#574A3E"
+
+bright_red = "#7C4A41"
+bright_yellow = "#695533"
+bright_green = "#505B46"
+bright_cyan = "#445C5C"
+bright_blue = "#4F5770"
+bright_magenta = "#65515F"

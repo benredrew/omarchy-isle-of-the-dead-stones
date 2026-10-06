@@ -1,0 +1,36 @@
+mode = "light"
+
+# Isle of the Dead · Tower Crown (Böcklin, 1883): surfaces from stone sample 5,
+# the right tower, top (#917D69), with every color weathered toward it.
+accent = "#62492F"
+selection = "#DAD4CD"
+muted = "#70675F"
+
+background = "#C9BDB1"
+dark_background = "#C1B5A9"
+darker_background = "#BAADA0"
+lighter_background = "#C4B9AE"
+
+foreground = "#221F1B"
+dark_foreground = "#524D48"
+light_foreground = "#3E3832"
+bright_foreground = "#141210"
+
+hyprland_active_border = "#62492F #6E7488 45deg"
+hyprland_inactive_border = "#AE9E8F"
+
+red = "#6F423A"
+yellow = "#5C4B2D"
+orange = "#65482F"
+green = "#47513F"
+cyan = "#3D5252"
+blue = "#464D63"
+magenta = "#5B4956"
+brown = "#594C40"
+
+bright_red = "#7E4B41"
+bright_yellow = "#6A5634"
+bright_green = "#515C47"
+bright_cyan = "#455D5D"
+bright_blue = "#505871"
+bright_magenta = "#685361"

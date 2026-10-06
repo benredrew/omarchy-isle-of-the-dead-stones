@@ -1,0 +1,36 @@
+mode = "light"
+
+# Isle of the Dead · Tower Edge (Böcklin, 1883): surfaces from stone sample 7,
+# the right tower, left edge (#86796C), with every color weathered toward it.
+accent = "#5C4A37"
+selection = "#D8D4CF"
+muted = "#6E665E"
+
+background = "#C5BDB5"
+dark_background = "#BDB5AD"
+darker_background = "#B6ADA5"
+lighter_background = "#C0B9B1"
+
+foreground = "#221F1B"
+dark_foreground = "#524D48"
+light_foreground = "#3E3832"
+bright_foreground = "#141210"
+
+hyprland_active_border = "#5C4A37 #6E7488 45deg"
+hyprland_inactive_border = "#A99E94"
+
+red = "#6E4139"
+yellow = "#5C4B2D"
+orange = "#63472F"
+green = "#464F3E"
+cyan = "#3C5151"
+blue = "#464D63"
+magenta = "#5A4855"
+brown = "#584B3F"
+
+bright_red = "#7E4B41"
+bright_yellow = "#695533"
+bright_green = "#515C47"
+bright_cyan = "#455D5D"
+bright_blue = "#505871"
+bright_magenta = "#675260"

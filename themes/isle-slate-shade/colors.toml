@@ -1,0 +1,36 @@
+mode = "dark"
+
+# Isle of the Dead · Slate Shade (Böcklin, 1883): surfaces from stone sample 11,
+# the left cliff, upper shade (#4C4D5B), with every color weathered toward it.
+accent = "#9295C4"
+selection = "#3C3D49"
+muted = "#696A80"
+
+background = "#202127"
+dark_background = "#1A1A1F"
+darker_background = "#131316"
+lighter_background = "#2E2F38"
+
+foreground = "#D5D6E2"
+dark_foreground = "#76778A"
+light_foreground = "#BEBFD0"
+bright_foreground = "#EAEAF1"
+
+hyprland_active_border = "#9295C4 #7C84A6 45deg"
+hyprland_inactive_border = "#383843"
+
+red = "#BF8175"
+yellow = "#AF8B4C"
+orange = "#B98557"
+green = "#829672"
+cyan = "#6E9898"
+blue = "#8590AE"
+magenta = "#A3889B"
+brown = "#A28C78"
+
+bright_red = "#CFA198"
+bright_yellow = "#C4A878"
+bright_green = "#A1B095"
+bright_cyan = "#93B2B2"
+bright_blue = "#A4ACC2"
+bright_magenta = "#BAA6B4"

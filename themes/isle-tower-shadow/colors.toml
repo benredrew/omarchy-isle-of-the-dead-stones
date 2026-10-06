@@ -1,0 +1,36 @@
+mode = "dark"
+
+# Isle of the Dead · Tower Shadow (Böcklin, 1883): surfaces from stone sample 12,
+# the right tower, shadow side (#5E5861), with every color weathered toward it.
+accent = "#B08DC2"
+selection = "#433F46"
+muted = "#76677D"
+
+background = "#242226"
+dark_background = "#1D1B1D"
+darker_background = "#151315"
+lighter_background = "#343135"
+
+foreground = "#DDD5E2"
+dark_foreground = "#827488"
+light_foreground = "#CABED0"
+bright_foreground = "#EEEAF1"
+
+hyprland_active_border = "#B08DC2 #7C84A6 45deg"
+hyprland_inactive_border = "#3E3A40"
+
+red = "#BF8277"
+yellow = "#B08C4C"
+orange = "#BA875A"
+green = "#859874"
+cyan = "#6F9999"
+blue = "#8691AF"
+magenta = "#A58A9D"
+brown = "#A48E7A"
+
+bright_red = "#D0A39B"
+bright_yellow = "#C6AA79"
+bright_green = "#A4B297"
+bright_cyan = "#94B3B3"
+bright_blue = "#A5ADC3"
+bright_magenta = "#BCA8B6"

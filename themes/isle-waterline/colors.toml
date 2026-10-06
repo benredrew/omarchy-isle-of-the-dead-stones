@@ -1,0 +1,36 @@
+mode = "dark"
+
+# Isle of the Dead · Waterline (Böcklin, 1883): surfaces from stone sample 15,
+# the rock at the waterline (#7B6751), with every color weathered toward it.
+accent = "#C69157"
+selection = "#514333"
+muted = "#786D62"
+
+background = "#2C241C"
+dark_background = "#221C16"
+darker_background = "#191510"
+lighter_background = "#3E3429"
+
+foreground = "#E2DCD5"
+dark_foreground = "#847A71"
+light_foreground = "#D0C7BE"
+bright_foreground = "#F1EDEA"
+
+hyprland_active_border = "#C69157 #7C84A6 45deg"
+hyprland_inactive_border = "#4A3E31"
+
+red = "#C1867B"
+yellow = "#B38F50"
+orange = "#BC8A5F"
+green = "#889A78"
+cyan = "#739B9B"
+blue = "#8A95B1"
+magenta = "#A78C9F"
+brown = "#A6907D"
+
+bright_red = "#D1A69E"
+bright_yellow = "#C7AD7F"
+bright_green = "#A7B49B"
+bright_cyan = "#99B6B6"
+bright_blue = "#A9B1C5"
+bright_magenta = "#BFABB9"
